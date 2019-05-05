@@ -1,0 +1,34 @@
+h5 {
+  display: inline-block;
+  padding: 10px;
+  background: darkorange;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.carousel-control-next-icon{
+  font-size: 200%;
+}
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.first-photo {
+  background-image: url('../imgbox/Venom-poster-6.jpg');
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
+.second-photo {
+  background-image: url('../imgbox/aquaman-charaposter1-xl.jpg');
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
+.third-photo {
+  background-image: url('../imgbox/meg_ver9_xlg.jpg');
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
