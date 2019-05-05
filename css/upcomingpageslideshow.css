@@ -1,0 +1,35 @@
+/* functionality for the carousel in this page */
+}
+.carousel-control-next-icon{
+  font-size: 200%;
+}
+.full-screen {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* clear classes were written  */
+.first-photo {
+ /* background-image: url('../imgbox/mowgli-poster-cl.jpg');*/
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
+.second-photo {
+ /* background-image: url('../imgbox/skyscraper-poster-main-xl.jpg');*/
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
+.third-photo {
+  /*background-image: url('../imgbox/45232440_10213171920072339_7990841028493967360_n.jpg');*/
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
+.fourth-photo{
+  background-image: url('../imgbox/5b5cf4279ee96f59af7ae843b94cddb50807f876.jpg');
+  background-position: center;
+  background-size: contain;
+  background-color: black;
+}
